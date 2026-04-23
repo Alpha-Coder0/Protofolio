@@ -56,15 +56,6 @@ It is designed with a focus on **performance, clean UI, and smooth user experien
 
 👉 https://github.com/Alpha-Coder0/Portfolio
 
----
-
-## ⚙️ Installation & Setup
-
-```bash
-git clone https://github.com/Alpha-Coder0/portfolio.git
-cd portfolio
-open index.html
-```
 
 ---
 
