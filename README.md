@@ -41,7 +41,8 @@ It is designed with a focus on **performance, clean UI, and smooth user experien
 
 ## 📸 Screenshots
 
-*Add screenshots of your website here*
+<img width="1900" height="945" alt="image" src="https://github.com/user-attachments/assets/a9c23126-ec6a-4a12-b925-916af45a7531" />
+
 
 ---
 
