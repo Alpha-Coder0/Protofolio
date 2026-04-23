@@ -47,13 +47,13 @@ It is designed with a focus on **performance, clean UI, and smooth user experien
 
 ## 🔗 Live Demo
 
-👉 https://your-portfolio-link.com
+👉 https://marawan3skar.netlify.app/
 
 ---
 
 ## 📂 Repository
 
-👉 https://github.com/yourusername/portfolio
+👉 https://github.com/Alpha-Coder0/Portfolio
 
 ---
 
